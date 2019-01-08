@@ -10,5 +10,6 @@
 - Carnegie Mellon University starts first AI undergraduate degree program in the States: 
   - https://edscoop.com/carnegie-mellon-university-artificial-intelligence-major-degree-program/
   - https://venturebeat.com/2018/05/10/carnegie-mellon-university-starts-first-ai-degree-program-in-u-s/
+  - https://www.cs.cmu.edu/bs-in-artificial-intelligence
 
 

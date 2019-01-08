@@ -1,6 +1,6 @@
 # Undergraduate Degree Programs in AI
 
-#### The world is in high demand for those talented in AI. However, few universities provide **_[Red undergraduate]_** AI programs. Below is a list of the universities that currently offer undergraduate degrees in artificial intelligence:
+#### The world is in high demand for those talented in AI. However, few universities provide **_<span style="color:red">undergraduate</span>_** AI programs. Below is a list of the universities that currently offer undergraduate degrees in artificial intelligence:
 
 - University of Toronto has Canada's first engineering undergraduate program in machine intelligence: 
   - https://www.utoronto.ca/news/u-t-launches-canada-s-first-engineering-undergraduate-program-machine-intelligence

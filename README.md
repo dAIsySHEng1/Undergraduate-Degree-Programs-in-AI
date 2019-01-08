@@ -4,7 +4,8 @@
 
 - University of Toronto has Canada's first engineering undergraduate program in machine intelligence: 
   - https://www.utoronto.ca/news/u-t-launches-canada-s-first-engineering-undergraduate-program-machine-intelligence
-
+  - http://engsci.utoronto.ca/explore_our_program/majors/machine-intelligence/
+  
 
 - Carnegie Mellon University starts first AI undergraduate degree program in the States: 
   - https://edscoop.com/carnegie-mellon-university-artificial-intelligence-major-degree-program/
